@@ -10,7 +10,7 @@ Welcome to my journey through the **GeeksforGeeks 160 Days of DSA Challenge**! T
 - **Duration**: 160 Days
 - **Goal**: Master DSA concepts for competitive programming and technical interviews.
 - **Language Used**: Java
-- **Status**: 🟢 In Progress (Day 12/160)
+- **Status**: 🟢 In Progress (Day 13/160)
 
 ---
 
@@ -59,6 +59,7 @@ Welcome to my journey through the **GeeksforGeeks 160 Days of DSA Challenge**! T
 | Day 10 | Maximum Sum Subarray             | ✅ Done    |
 | Day 11 | Maximum Product Subarray         | ✅ Done    |
 | Day 12 | Max Circular Subarray Sum        | ✅ Done    |
+| Day 13 | Smallest Positive Missing        | ✅ Done    |
 
 > 📁 **Note**: Each day’s solution is organized into its respective package (e.g., `Array`, `String`, `Tree`, etc.) for easy navigation and understanding.
 
