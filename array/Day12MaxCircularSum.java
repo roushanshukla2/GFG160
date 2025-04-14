@@ -1,6 +1,6 @@
 package array;
 
-public class MaxCircularSumDay12 {
+public class Day12MaxCircularSum {
 	
 	    // Kadane's Algorithm to find max subarray sum
 	    private int kadanes(int[] a) {

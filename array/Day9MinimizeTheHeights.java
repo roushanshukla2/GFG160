@@ -2,7 +2,7 @@ package array;
 
 import java.util.Arrays;
 
-public class MinimizeTheHeights9 {
+public class Day9MinimizeTheHeights {
 	int getMinDiff(int[] arr, int k)
 	{
 		int n=arr.length;

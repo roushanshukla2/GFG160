@@ -43,6 +43,7 @@ Welcome to my journey through the **GeeksforGeeks 160 Days of DSA Challenge**! T
 ## 📊 Progress Tracker
 
 > 🧠 **Note:** Days 1 to 13 are focused on mastering **Arrays**.  
+> 🧠 **Note:** Days 14 to 20 are focused on mastering **String**.  
 > 📦 **Package Info**: To view the code for Days 1–13, check the `Array` package inside the project structure.
 
 | Day    | Topic                           | Status    |
@@ -60,6 +61,12 @@ Welcome to my journey through the **GeeksforGeeks 160 Days of DSA Challenge**! T
 | Day 11 | Maximum Product Subarray         | ✅ Done    |
 | Day 12 | Max Circular Subarray Sum        | ✅ Done    |
 | Day 13 | Smallest Positive Missing        | ✅ Done    |
+|--------|----------------------------------|-------------|
+| Day 14 | Implement Atoi                   | ✅ Done    |
+| Day 15 | Add Binary Strings               | ✅ Done    |
+| Day 16 | Anagram                          | ✅ Done    |
+| Day 17 | Non Repeating Character          | ✅ Done    |
+
 
 > 📁 **Note**: Each day’s solution is organized into its respective package (e.g., `Array`, `String`, `Tree`, etc.) for easy navigation and understanding.
 

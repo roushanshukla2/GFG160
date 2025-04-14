@@ -2,7 +2,7 @@ package array;
 
 import java.util.Arrays;
 
-public class LeftRotateByD {
+public class Day4LeftRotateByD {
     static void rotateArr(int arr[], int d) {
        
     	int n=arr.length;

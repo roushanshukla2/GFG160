@@ -2,7 +2,7 @@ package array;
 
 import java.util.Arrays;
 
-public class ReverseAnArray {
+public class Day3ReverseAnArray {
 	public void reverseArray(int arr[]) {
 		int start=0;
 		int last=arr.length-1;

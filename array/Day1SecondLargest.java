@@ -1,6 +1,6 @@
 package array;
 
-public class secondLargest {
+public class Day1SecondLargest {
 	
 	public int getSecondLargest(int[] arr) {
 		int largest=-1;

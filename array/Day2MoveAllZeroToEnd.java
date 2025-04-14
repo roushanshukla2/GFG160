@@ -1,6 +1,6 @@
 package array;
 
-public class MoveAllZeroToEnd {
+public class Day2MoveAllZeroToEnd {
 	public int[] moveZero(int[] arr)
 	{
 		for(int i=0;i<arr.length;i++)

@@ -1,6 +1,6 @@
 package array;
 
-public class StockSingle {
+public class Day8StockSingle {
 	public int maximumProfitSingle(int[] prices)
 	{
    	 int min=Integer.MAX_VALUE;

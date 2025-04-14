@@ -1,6 +1,6 @@
 package array;
 
-public class MaxProductSubArrayDay11 {
+public class Day11MaxProductSubArray {
 	int maxProductGreedy(int[] arr) {
         int  leftToRight=1;
         int rightToLeft=1;

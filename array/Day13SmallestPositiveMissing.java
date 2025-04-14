@@ -2,7 +2,7 @@ package array;
 
 import java.util.Arrays;
 
-public class SmallestPositiveMissingDay13 {
+public class Day13SmallestPositiveMissing {
 
     // Method to find the first missing positive number by sorting the array
     public int missingNumberBySortin(int[] arr) {
