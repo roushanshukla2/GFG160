@@ -10,7 +10,7 @@ Welcome to my journey through the **GeeksforGeeks 160 Days of DSA Challenge**! T
 - **Duration**: 160 Days
 - **Goal**: Master DSA concepts for competitive programming and technical interviews.
 - **Language Used**: Java
-- **Status**: 🟢 In Progress (Day 17/160)
+- **Status**: 🟢 In Progress (Day 18/160)
 
 ---
 
@@ -66,6 +66,7 @@ Welcome to my journey through the **GeeksforGeeks 160 Days of DSA Challenge**! T
 | Day 15 | Add Binary Strings               | ✅ Done    |
 | Day 16 | Anagram                          | ✅ Done    |
 | Day 17 | Non Repeating Character          | ✅ Done    |
+| Day 18 | Search Pattern (KMP-Algorithm)   | ✅ Done    |
 
 
 > 📁 **Note**: Each day’s solution is organized into its respective package (e.g., `Array`, `String`, `Tree`, etc.) for easy navigation and understanding.
